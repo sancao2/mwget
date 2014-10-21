@@ -1,0 +1,62 @@
+debug.o: debug.cpp /usr/include/stdc-predef.h \
+ /usr/include/c++/4.8/cassert /usr/include/assert.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h /usr/include/c++/4.8/cstdarg \
+ /usr/include/c++/4.8/i586-suse-linux/bits/c++config.h \
+ /usr/include/c++/4.8/i586-suse-linux/bits/os_defines.h \
+ /usr/include/c++/4.8/i586-suse-linux/bits/cpu_defines.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stdarg.h \
+ /usr/include/c++/4.8/cstdio /usr/include/stdio.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h debug.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/c++/4.8/cassert:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-32.h:
+
+/usr/include/c++/4.8/cstdarg:
+
+/usr/include/c++/4.8/i586-suse-linux/bits/c++config.h:
+
+/usr/include/c++/4.8/i586-suse-linux/bits/os_defines.h:
+
+/usr/include/c++/4.8/i586-suse-linux/bits/cpu_defines.h:
+
+/usr/lib/gcc/i586-suse-linux/4.8/include/stdarg.h:
+
+/usr/include/c++/4.8/cstdio:
+
+/usr/include/stdio.h:
+
+/usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+debug.h:
